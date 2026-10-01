@@ -49,7 +49,7 @@ Below is a comparison of leading SaaS dataset management platforms sorted by com
 
 Explore production-proven open-source tools for dataset curation, annotation, self-hosted dataset hubs, and dataset versioning.
 
-Repositories sorted by GitHub star counts (descending):
+Repositories sorted by GitHub Stars_Counts (descending):
 
 | 📦 Repository & Stars | 🛠️ Category | 📜 License | 🌟 Highlights & Capabilities |
 | :--- | :--- | :--- | :--- |
